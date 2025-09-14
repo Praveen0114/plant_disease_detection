@@ -41,7 +41,7 @@ def read_question_history():
         return []
 
 def ask_bard(query):
-    API_KEY = "AIzaSyDnEhZ4EnphPTr5zOlvdWoZ9USC2HJHL9I" 
+    API_KEY = " Enter ur API Key here" 
 
     headers = {
         "Authorization": f"Bearer {API_KEY}",
